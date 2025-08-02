@@ -1,7 +1,7 @@
-# Zomato-Tableau-Dashboard <a href="https://github.com/suhel9/Zomato-Tableau-Dashboard/blob/main/Zomato_Dashboard.twb">Link</a>
+# Zomato-Tableau-Dashboard <a href="https://github.com/suhel9/Zomato-Tableau-Dashboard/blob/main/Zomato_Dashboard.twb" target="_blank">Link</a>
 This Tableau dashboard project provides an in-depth visual analysis of restaurant ratings, order distribution, and city-wise engagement on the Zomato platform.
 ## Project Overview
-<p>The primary goal of this dashboard is to explore key performance metrics from Zomato data, including:<a href="https://github.com/suhel9/Zomato-Tableau-Dashboard/blob/main/Tableau_Dashboard.png">Link</a></p>
+<p>The primary goal of this dashboard is to explore key performance metrics from Zomato data, including:<a href="https://github.com/suhel9/Zomato-Tableau-Dashboard/blob/main/Tableau_Dashboard.png" target="_blank">Link</a></p>
 <ul>
 <li>Average ratings and pricing trends</li>
 <li>Top restaurants by popularity</li>
@@ -32,6 +32,12 @@ This Tableau dashboard project provides an in-depth visual analysis of restauran
 <h2>Tools & Technologies</h2>
 <ul>
   <li><strong>Tableau Public/Desktop</strong> – For data visualization</li>
-  <li><strong><a herf="https://github.com/suhel9/Zomato-Tableau-Dashboard/blob/main/archive%20(3).zip">Zomato Dataset</a></strong> – Preprocessed data with restaurant metadata, ratings, and order stats.</li>
+  <li>
+    <strong>
+      <a href="https://github.com/suhel9/Zomato-Tableau-Dashboard/blob/main/archive%20(3).zip" target="_blank">
+        Zomato Dataset
+      </a>
+    </strong> – Preprocessed data with restaurant metadata, ratings, and order stats.
+  </li>
   <li><strong>Mapbox & Tableau Maps</strong> – For spatial mapping</li>
 </ul>
